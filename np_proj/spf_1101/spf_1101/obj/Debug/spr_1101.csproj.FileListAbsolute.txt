@@ -1,0 +1,9 @@
+D:\docs\spf_1101\spf_1101\bin\Debug\spf_1101.exe.config
+D:\docs\spf_1101\spf_1101\bin\Debug\spf_1101.exe
+D:\docs\spf_1101\spf_1101\bin\Debug\spf_1101.pdb
+D:\docs\spf_1101\spf_1101\obj\Debug\spf_1101.Form1.resources
+D:\docs\spf_1101\spf_1101\obj\Debug\spf_1101.Properties.Resources.resources
+D:\docs\spf_1101\spf_1101\obj\Debug\spr_1101.csproj.GenerateResource.Cache
+D:\docs\spf_1101\spf_1101\obj\Debug\spf_1101.exe
+D:\docs\spf_1101\spf_1101\obj\Debug\spf_1101.pdb
+D:\docs\spf_1101\spf_1101\obj\Debug\spr_1101.csprojResolveAssemblyReference.cache

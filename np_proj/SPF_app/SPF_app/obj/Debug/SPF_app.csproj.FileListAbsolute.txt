@@ -1,0 +1,9 @@
+D:\docs\SPF_app\SPF_app\bin\Debug\SPF_app.exe.config
+D:\docs\SPF_app\SPF_app\bin\Debug\SPF_app.exe
+D:\docs\SPF_app\SPF_app\bin\Debug\SPF_app.pdb
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.csprojResolveAssemblyReference.cache
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.Form1.resources
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.Properties.Resources.resources
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.csproj.GenerateResource.Cache
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.exe
+D:\docs\SPF_app\SPF_app\obj\Debug\SPF_app.pdb

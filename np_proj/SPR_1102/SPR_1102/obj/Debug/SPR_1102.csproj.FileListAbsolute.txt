@@ -1,0 +1,8 @@
+D:\docs\SPR_1102\SPR_1102\bin\Debug\SPR_1102.exe.config
+D:\docs\SPR_1102\SPR_1102\bin\Debug\SPR_1102.exe
+D:\docs\SPR_1102\SPR_1102\bin\Debug\SPR_1102.pdb
+D:\docs\SPR_1102\SPR_1102\obj\Debug\SPR_1102.Form1.resources
+D:\docs\SPR_1102\SPR_1102\obj\Debug\SPR_1102.Properties.Resources.resources
+D:\docs\SPR_1102\SPR_1102\obj\Debug\SPR_1102.csproj.GenerateResource.Cache
+D:\docs\SPR_1102\SPR_1102\obj\Debug\SPR_1102.exe
+D:\docs\SPR_1102\SPR_1102\obj\Debug\SPR_1102.pdb

@@ -1,0 +1,8 @@
+D:\docs\spr_7\spr_7\bin\Debug\spr_7.exe.config
+D:\docs\spr_7\spr_7\bin\Debug\spr_7.exe
+D:\docs\spr_7\spr_7\bin\Debug\spr_7.pdb
+D:\docs\spr_7\spr_7\obj\Debug\spr_7.Form1.resources
+D:\docs\spr_7\spr_7\obj\Debug\spr_7.Properties.Resources.resources
+D:\docs\spr_7\spr_7\obj\Debug\spr_7.csproj.GenerateResource.Cache
+D:\docs\spr_7\spr_7\obj\Debug\spr_7.exe
+D:\docs\spr_7\spr_7\obj\Debug\spr_7.pdb
